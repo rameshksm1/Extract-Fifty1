@@ -1,3 +1,8 @@
 Initial Commit in Master.
 This references the latest and greatest in Master.
 This is also the content at the start of the repo.
+
+In Project One, this line is being added.
+The content was added 09/08/2018 1421 Hrs
+This content is expected to be released via Release One.
+This content will merge with Master from Release One.
